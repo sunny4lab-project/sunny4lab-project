@@ -10,5 +10,8 @@ As a cybersecurity professional, my goal is to fortify the digital landscape aga
 
 - **Azure / Cloud Project**
   - [Creating a Live SOC / HoneyNet](https://github.com/sunny4lab-project/Cloud-SOC-Azure-)
+- **Qualys**
+   - Adding Asset
+   - Scanning Asset
 
 Let's collaborate to strengthen cybersecurity!
