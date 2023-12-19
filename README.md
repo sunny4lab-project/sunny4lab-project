@@ -13,6 +13,7 @@ As a cybersecurity professional, my goal is to fortify the digital landscape aga
 - **Qualys**
    - Adding Asset
    - [Qualy Assest unauthenticated scanning ](https://github.com/sunny4lab-project/Qualys-Asset-Scanning.)
+   - Qualys Credential Scanning 
    - Scanning Asset
 
 Let's collaborate to strengthen cybersecurity!
