@@ -14,7 +14,7 @@ As a cybersecurity professional, my goal is to fortify the digital landscape aga
    - Adding Asset
    - [Qualy Assest unauthenticated scanning ](https://github.com/sunny4lab-project/Qualys-Asset-Scanning.)
    - Qualys Credential Scanning 
-   - How to Secure Microsoft Azure with Qualys (Set Up Process)
+   - Automate Microsoft Azure Asset Inventory using Qualys(Set Up Process)
    - Qualys Integration with Azure Sentinel
 
 
