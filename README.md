@@ -11,7 +11,6 @@ As a cybersecurity professional, my goal is to fortify the digital landscape aga
 - **Azure / Cloud Project**
   - [Creating a Live SOC / HoneyNet](https://github.com/sunny4lab-project/Cloud-SOC-Azure-)
 - **Qualys**
-   - Adding Asset
    - [Qualy Assest unauthenticated scanning ](https://github.com/sunny4lab-project/Qualys-Asset-Scanning.)
    - Qualys Credential Scanning 
    - [Automate Microsoft Azure Asset Inventory using Qualys](https://github.com/sunny4lab-project/-Automate-Microsoft-Azure-Asset-Inventory-using-Qualys)
