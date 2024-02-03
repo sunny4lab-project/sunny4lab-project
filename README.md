@@ -11,10 +11,11 @@ As a cybersecurity professional, my goal is to fortify the digital landscape aga
 - **Azure / Cloud Project**
   - [Creating a Live SOC / HoneyNet](https://github.com/sunny4lab-project/Cloud-SOC-Azure-)
 - **Qualys**
-   - [Qualy Assest unauthenticated scanning ](https://github.com/sunny4lab-project/Qualys-Asset-Scanning.)
-   - [Qualys Credential Scanning](https://github.com/sunny4lab-project/Qualys-Credential-Scanning-) 
-   - [Automate Microsoft Azure Asset Inventory using Qualys](https://github.com/sunny4lab-project/-Automate-Microsoft-Azure-Asset-Inventory-using-Qualys)
-   - Qualys Integration with Azure Sentinel
+   - ➡️ [Qualy Assest unauthenticated scanning ](https://github.com/sunny4lab-project/Qualys-Asset-Scanning.)
+   - ➡️ [Qualys Credential Scanning](https://github.com/sunny4lab-project/Qualys-Credential-Scanning-) 
+   - ➡️ [Automate Microsoft Azure Asset Inventory using Qualys](https://github.com/sunny4lab-project/-Automate-Microsoft-Azure-Asset-Inventory-using-Qualys)
+   - ➡️ Deploy Qualys Cloud Agent from Microsoft Defender for Cloud
+   - ➡️ Qualys Integration with Azure Sentinel
 
 
 Let's collaborate to strengthen cybersecurity!
