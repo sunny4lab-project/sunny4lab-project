@@ -14,7 +14,7 @@ As a cybersecurity professional, my goal is to fortify the digital landscape aga
    - ➡️ [Qualy Assest unauthenticated scanning ](https://github.com/sunny4lab-project/Qualys-Asset-Scanning.)
    - ➡️ [Qualys Credential Scanning](https://github.com/sunny4lab-project/Qualys-Credential-Scanning-) 
    - ➡️ [Automate Microsoft Azure Asset Inventory using Qualys](https://github.com/sunny4lab-project/-Automate-Microsoft-Azure-Asset-Inventory-using-Qualys)
-   - ➡️ Deploy Qualys Cloud Agent from Microsoft Defender for Cloud
+   - ➡️ [Deploy Qualys Cloud Agent from Microsoft Defender for Cloud](https://github.com/sunny4lab-project/Deploy-Qualys-Cloud-Agent-from-Microsoft-Defender-for-Cloud)
    - ➡️ Qualys Integration with Azure Sentinel
 
 
