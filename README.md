@@ -9,7 +9,7 @@ As a cybersecurity professional, my goal is to fortify the digital landscape aga
 ### 👨‍💻 Cybersecurity Projects:
 
 - **Azure / Cloud Project**
-  - [Creating a Live SOC / HoneyNet](https://github.com/sunny4lab-project/Cloud-SOC-Azure-)
+  - 🍯 [Creating a Live SOC / HoneyNet](https://github.com/sunny4lab-project/Cloud-SOC-Azure-)
 - **Qualys**
    - ➡️ [Qualy Assest unauthenticated scanning ](https://github.com/sunny4lab-project/Qualys-Asset-Scanning.)
    - ➡️ [Qualys Credential Scanning](https://github.com/sunny4lab-project/Qualys-Credential-Scanning-) 
