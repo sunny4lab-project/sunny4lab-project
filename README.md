@@ -16,6 +16,9 @@ As a cybersecurity professional, my goal is to fortify the digital landscape aga
    - ➡️ [Automate Microsoft Azure Asset Inventory using Qualys](https://github.com/sunny4lab-project/-Automate-Microsoft-Azure-Asset-Inventory-using-Qualys)
    - ➡️ [Deploy Qualys Cloud Agent from Microsoft Defender for Cloud](https://github.com/sunny4lab-project/Deploy-Qualys-Cloud-Agent-from-Microsoft-Defender-for-Cloud)
    - ➡️ Qualys Integration with Azure Sentinel
+     
+     **Enhancing Cybersecurity Awareness**
+     - KnowBe4 Phishing Campaign Integration with Google Workspace
 
 
 Let's collaborate to strengthen cybersecurity!
