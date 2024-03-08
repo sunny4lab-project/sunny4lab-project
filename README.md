@@ -18,7 +18,7 @@ As a cybersecurity professional, my goal is to fortify the digital landscape aga
    - ➡️ Qualys Integration with Azure Sentinel
      
      **Enhancing Cybersecurity Awareness**
-     - KnowBe4 Phishing Campaign Integration with Google Workspace
+     - ➡️[KnowBe4 Phishing Campaign Integration with Google Workspace](https://github.com/sunny4lab-project/Enhancing-Cybersecurity-Awareness-KnowBe4-Phishing-Campaign-with-Google-Workspace)
 
 
 Let's collaborate to strengthen cybersecurity!
