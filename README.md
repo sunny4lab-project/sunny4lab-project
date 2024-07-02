@@ -23,13 +23,13 @@ As a cybersecurity professional, my goal is to fortify the digital landscape aga
 
 #
 **Active Directory**
-       
-          ➡️ [Active Directory VM Lab](https://github.com/sunny4lab-project/Active-Directory-VM-Lab)
+
+- ➡️ [Active Directory VM Lab](https://github.com/sunny4lab-project/Active-Directory-VM-Lab)
       
   # 
    **Microsoft 365**
      
-     https://github.com/sunny4lab-project/Adding-A-User-Account-in-Microsoft-365t/blob/main/README.md
+  - ➡️[Adding a User Account in Microsoft 365](https://github.com/sunny4lab-project/Adding-A-User-Account-in-Microsoft-365t/blob/main/README.md)
 
 
 Let's collaborate to strengthen cybersecurity!
