@@ -10,20 +10,26 @@ As a cybersecurity professional, my goal is to fortify the digital landscape aga
 
 - **Azure / Cloud Project**
   - 🍯 [Creating a Live SOC / HoneyNet](https://github.com/sunny4lab-project/Cloud-SOC-Azure-)
+    #
 - **Qualys**
    - ➡️ [Qualy Assest unauthenticated scanning ](https://github.com/sunny4lab-project/Qualys-Asset-Scanning.)
    - ➡️ [Qualys Credential Scanning](https://github.com/sunny4lab-project/Qualys-Credential-Scanning-) 
    - ➡️ [Automate Microsoft Azure Asset Inventory using Qualys](https://github.com/sunny4lab-project/-Automate-Microsoft-Azure-Asset-Inventory-using-Qualys)
    - ➡️ [Deploy Qualys Cloud Agent from Microsoft Defender for Cloud](https://github.com/sunny4lab-project/Deploy-Qualys-Cloud-Agent-from-Microsoft-Defender-for-Cloud)
    - ➡️ Qualys Integration with Azure Sentinel
-     
+     #
      **Enhancing Cybersecurity Awareness**
      - ➡️[KnowBe4 Phishing Campaign Integration with Google Workspace](https://github.com/sunny4lab-project/Enhancing-Cybersecurity-Awareness-KnowBe4-Phishing-Campaign-with-Google-Workspace)
 
-     - **Active Directory**
+#
+**Active Directory**
        
           ➡️ [Active Directory VM Lab](https://github.com/sunny4lab-project/Active-Directory-VM-Lab)
-       
+      
+  # 
+   **Microsoft 365**
+     
+     https://github.com/sunny4lab-project/Adding-A-User-Account-in-Microsoft-365t/blob/main/README.md
 
 
 Let's collaborate to strengthen cybersecurity!
