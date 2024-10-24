@@ -23,11 +23,15 @@ As a cybersecurity professional, my goal is to fortify the digital landscape aga
 #
 - **Azure / Cloud Project**
   - 🍯 [Creating a Live SOC / HoneyNet](https://github.com/sunny4lab-project/Cloud-SOC-Azure-)
-
+ 
+  #
+### 👨‍💻 Phishing Campaign
   
      **Enhancing Cybersecurity Awareness**
      - ➡️[KnowBe4 Phishing Campaign Integration with Google Workspace](https://github.com/sunny4lab-project/Enhancing-Cybersecurity-Awareness-KnowBe4-Phishing-Campaign-with-Google-Workspace)
-
+   #
+       
+### 👨‍💻 Vulnerablity Management:
 
 - **Qualys**
    - ➡️ [Qualy Assest unauthenticated scanning ](https://github.com/sunny4lab-project/Qualys-Asset-Scanning.)
