@@ -11,7 +11,7 @@ As a cybersecurity professional, my goal is to fortify the digital landscape aga
 
 - ➡️ [Active Directory VM Lab](https://github.com/sunny4lab-project/Active-Directory-VM-Lab)
       
-  # 
+  #
    **Microsoft 365**
      
   - ➡️[Adding a User Account in Microsoft 365](https://github.com/sunny4lab-project/Adding-A-User-Account-in-Microsoft-365t/blob/main/README.md)
@@ -20,8 +20,9 @@ As a cybersecurity professional, my goal is to fortify the digital landscape aga
 #
 
 ### 👨‍💻 Cybersecurity Projects:
-#
+
 - **Azure / Cloud Project**
+  - 🍯 [Azure- Preparation](https://github.com/sunny4lab-project/Azure-Preparation))
   - 🍯 [Creating a Live SOC / HoneyNet](https://github.com/sunny4lab-project/Cloud-SOC-Azure-)
   - ➡️ [Deploy Qualys Cloud Agent from Microsoft Defender for Cloud](https://github.com/sunny4lab-project/Deploy-Qualys-Cloud-Agent-from-Microsoft-Defender-for-Cloud)
     
