@@ -24,6 +24,7 @@ As a cybersecurity professional, my goal is to fortify the digital landscape aga
 - **Azure / Cloud Project**
   - 🍯 [Azure- Preparation](https://github.com/sunny4lab-project/Azure-Preparation)
   - 🍯 [Simulating a Brute-Force Attack Using Crowbar](https://[github.com/sunny4lab-project/Azure-Preparation](https://github.com/sunny4lab-project/-Simulating-a-Brute-Force-Attack-Using-Crowbar))
+  - 🍯 [Cowrie Honeypot Setup and SIEM Integration ](https://github.com/sunny4lab-project/-Simulating-a-Brute-Force-Attack-Using-Crowbar)
   - 🍯 [Creating a Live SOC / HoneyNet](https://github.com/sunny4lab-project/Cloud-SOC-Azure-)
   - ➡️ [Deploy Qualys Cloud Agent from Microsoft Defender for Cloud](https://github.com/sunny4lab-project/Deploy-Qualys-Cloud-Agent-from-Microsoft-Defender-for-Cloud)
     
