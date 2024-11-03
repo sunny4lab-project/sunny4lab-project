@@ -7,17 +7,6 @@
 As a cybersecurity professional, my goal is to fortify the digital landscape against emerging threats and vulnerabilities. Whether it's implementing robust security measures in compliance with standards such as PCI DSS, NIST 800-53, NIST 800-37, ISO 27001, HIPAA, continuously monitoring activity logs, promptly addressing incidents and response, conducting thorough security audits, or educating teams on best practices, I'm committed to creating resilient systems that withstand the ever-evolving threat landscape.
 
 #
-**Active Directory**
-
-- ➡️ [Active Directory VM Lab](https://github.com/sunny4lab-project/Active-Directory-VM-Lab)
-      
-  #
-   **Microsoft 365**
-     
-  - ➡️[Adding a User Account in Microsoft 365](https://github.com/sunny4lab-project/Adding-A-User-Account-in-Microsoft-365t/blob/main/README.md)
- 
-    
-#
 
 ### 👨‍💻 Cybersecurity Projects:
 
@@ -30,6 +19,18 @@ As a cybersecurity professional, my goal is to fortify the digital landscape aga
     
 - **Google Cloud / Elastcisearch SIEM Cloud Project**
   - [Creating a Live SOC / HoneyNet](https://github.com/sunny4lab-project/Setting-Up-Elasticsearch-and-Kibana-as-a-SIEM-on-Ubuntu)
+
+    
+#
+
+
+**Active Directory**
+
+- ➡️ [Active Directory VM Lab](https://github.com/sunny4lab-project/Active-Directory-VM-Lab) 
+  #
+   **Microsoft 365**
+
+- ➡️ [Adding a User Account in Microsoft 365](https://github.com/sunny4lab-project/Adding-A-User-Account-in-Microsoft-365t/blob/main/README.md)
  
   #
   
