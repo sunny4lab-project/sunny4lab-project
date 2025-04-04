@@ -31,7 +31,10 @@ As a cybersecurity professional, my goal is to fortify the digital landscape aga
    **Microsoft 365**
 
 - ➡️ [Adding a User Account in Microsoft 365](https://github.com/sunny4lab-project/Adding-A-User-Account-in-Microsoft-365t/blob/main/README.md)
- 
+
+ #
+ **Onboarding Windows Devices to MDE**
+ - ➡️ [Onboarding Windows Devices to MDE](https://github.com/sunny4lab-project/Onboarding-Windows-Devices-to-Microsoft-Defender-for-Endpoint-MDE-Local-Script-Approach/blob/main/README.md)
   #
   
 ### 👨‍💻 Phishing Campaign
