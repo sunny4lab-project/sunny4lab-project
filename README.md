@@ -17,7 +17,7 @@ As a cybersecurity professional, my goal is to fortify the digital landscape aga
   - 🍯 [Creating a Live SOC / HoneyNet](https://github.com/sunny4lab-project/Cloud-SOC-Azure-)
   - ➡️ [Deploy Qualys Cloud Agent from Microsoft Defender for Cloud](https://github.com/sunny4lab-project/Deploy-Qualys-Cloud-Agent-from-Microsoft-Defender-for-Cloud)
     
-- **Google Cloud / Elastcisearch SIEM Cloud Project**
+- **Cloud-Based Honeynet with ELK Stack and Threat Intelligence Enrichment**
   - [Creating a Live SOC / HoneyNet](https://github.com/sunny4lab-project/Setting-Up-Elasticsearch-and-Kibana-as-a-SIEM-on-Ubuntu)
 
     
